@@ -31,8 +31,7 @@
 
 ## 作者
 
-stationaryobserverno043
-(https://stationaryobserverno043.github.io/mission-home/)
+[stationaryobserverno043](https://stationaryobserverno043.github.io/mission-home/)
 
 ---
 
