@@ -31,7 +31,7 @@
 
 ## 作者
 
-定点観測員No.043  
+stationaryobserverno043
 [note](https://note.com/teabreak_invader)
 
 ---
