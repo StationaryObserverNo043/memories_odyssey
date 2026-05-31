@@ -32,7 +32,7 @@
 ## 作者
 
 stationaryobserverno043
-[note](https://note.com/teabreak_invader)
+([https://note.com/teabreak_invader](https://stationaryobserverno043.github.io/mission-home/))
 
 ---
 
